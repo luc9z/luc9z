@@ -1,10 +1,10 @@
 <h1 align="center">Welcome! 👋</h1>
 
-###
+<br>
 
 <h3 align="center">🔥   My Stats :</h3>
 
-###
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luc9z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
@@ -12,13 +12,13 @@
   <img src="https://streak-stats.demolab.com?user=luc9z&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+<br>
 
 <div align="center">
   <img height="150" src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif"  />
 </div>
 
-###
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-melo-098656288/" target="_blank">
@@ -32,25 +32,25 @@
   </a>
 </div>
 
-###
+<br>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=luc9z.luc9z&"  />
 </div>
 
-###
+<br>
 
 <h3 align="center">👩‍💻  About Me</h3>
 
-###
+<br>
 
 <p align="center">- 🔭 I’m working as a Support Analyst<br>- 📚 I'm currently learning Laravel PHP and Java Spring Boot<br>- ⚡ In my free time I like to practice sports and explore new places</p>
 
-###
+<br>
 
 <h3 align="center">🛠 Language and tools</h3>
 
-###
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -71,5 +71,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
-
-###
