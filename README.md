@@ -1,3 +1,17 @@
+<h1 align="center">Welcome! 👋</h1>
+
+###
+
+<h3 align="center">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=luc9z&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 <div align="center">
   <img height="150" src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif"  />
 </div>
@@ -18,7 +32,9 @@
 
 ###
 
-<h1 align="center">Welcome! 👋</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=luc9z.luc9z&"  />
+</div>
 
 ###
 
@@ -26,7 +42,7 @@
 
 ###
 
-<p align="center">I'm from Santiago, RS - Brazil<br><br>- 🔭 I’m working as a Support Analyst<br>- 📚 I'm currently learning Laravel PHP and Java Spring Boot<br>- ⚡ In my free time I like to practice sports and explore new places</p>
+<p align="left">I'm from Santiago, RS - Brazil<br><br>- 🔭 I’m working as a Support Analyst<br>- 📚 I'm currently learning Laravel PHP and Java Spring Boot<br>- ⚡ In my free time I like to practice sports and explore new places</p>
 
 ###
 
@@ -53,9 +69,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
-
-###
-
-<h3 align="center">🔥   My Stats :</h3>
 
 ###
